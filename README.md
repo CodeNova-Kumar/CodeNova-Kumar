@@ -24,4 +24,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CodeNova-Kumar&show_icons=true&locale=en&layout=compact" alt="CodeNova-Kumar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kumarvermaa&" alt="CodeNova-Kumar" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeNova-Kumar&" alt="CodeNova-Kumar" /></p>
