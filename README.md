@@ -13,8 +13,9 @@
 
 <p align="left"> <a href="https://twitter.com/kumarve06835835" target="blank"><img src="https://img.shields.io/twitter/follow/kumarve06835835?logo=twitter&style=for-the-badge" alt="kumarve06835835" /></a> </p>
 
-- 🌱 I’m currently learning **Python,web Development**
-
+- 🔭 I’m currently working on `Something Intresting`.
+- 🌱 I’m currently learning `MERN Stack`
+- 💬 Ask me about anything, Except Maths :sweat_smile:
 - 📫 How to reach me **kumarverma2002@gmail.com**
 
 - ⚡ Fun fact **😉🎶**
