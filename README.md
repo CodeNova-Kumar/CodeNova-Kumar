@@ -1,4 +1,10 @@
-<h1 align="center">Hi 👋, I'm Kumar verma</h1>
+
+<div align="center">
+  <img src ="./git cover.jpg" />
+  
+</div>
+
+ <br/><h1 align="center">Hi 👋, I'm Kumar verma</h1>
 <h3 align="center"></h3>
 
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/9ed6ab9da7a93c8fc0032db8c13ca1e8ffbb40413e4341fcc14335e3d1db799c/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f5262444b61637a71576f76497567794a6d572f67697068792e676966">
